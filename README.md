@@ -2,7 +2,7 @@
 
 ## Comments
 
-Cool tutorial! I liked making the desktop app. For step 1 it's `mainWindow` not `win` but I think that was the only typo?
+Cool tutorial! I liked making the desktop app. For step 1 it's `mainWindow` not `win` but I think that was the only typo? But the app bundles to 139 MB! That's ridiculous!
 
 ## Screenshots
 
